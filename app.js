@@ -48,3 +48,12 @@
 // document.write("String : " + "<br>" + message + "<br>"+ "<br>");
 // message = message.replaceAll("and","&");
 // document.write("After Replacement : "+"<br>" + message);
+
+
+//************ Converts a string to a number ************/
+
+// var string = "472";
+// document.write("Value : "+ string + "<br>" + "Type : String" + "<br>"   );
+// var string1 = Number("472");
+// document.write("Value : "+ string1 + "<br>" + "Type : Number"   );
+
