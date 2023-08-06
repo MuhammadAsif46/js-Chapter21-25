@@ -64,3 +64,14 @@
 // document.write("User input : " + user + "<br>")
 // document.write("Upper case : " + user.toUpperCase());
 
+
+//************ Take input fron user and show 1st letter is an capital ************/
+
+// var a = prompt ("enter a text.");
+
+// var b = a.slice(0, 1).toUpperCase();
+// var c = a.slice(1).toLowerCase();
+// var d = b + c;
+// document.write("User Input : " + a + "<br>");
+// document.write("Title Case : " + d);
+
