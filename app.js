@@ -75,3 +75,16 @@
 // document.write("User Input : " + a + "<br>");
 // document.write("Title Case : " + d);
 
+
+
+//************ Convert a number to string & remove the dot to display content  ************/
+
+// var num = 35.36 ;
+
+// num = num.toString();
+// var num1 = num.slice(0,2);
+// var num2 = num.slice(3,5);
+// var num3 = num1 + num2
+// document.write("Number : " + num + "<br>");
+// document.write("Result : " + num3 );
+
