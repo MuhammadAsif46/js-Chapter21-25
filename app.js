@@ -23,3 +23,12 @@
 // document.write("Index of 'n' is : " + names.indexOf("n")+"<br>");
 // document.write("Index of 'a' fisrt is : " + names.indexOf("a")+"<br>");
 // document.write("Index of 'a' last is : " + names.lastIndexOf("a"));
+
+
+//************ Find the character of index in a variable and display ************/
+
+// var names = "Pakistani";
+
+// document.write("String : " + names + "<br>");
+// document.write("Character at index 3 is : " + names.charAt(3)+"<br>");
+// document.write("Character at index 6 is : " + names.charAt(6));
