@@ -13,3 +13,13 @@
 
 // document.write ("My Favorite Phone Is : " + mobileModel + "<br>");
 // document.write ("Length Of Strings : " + mobileModel.length);
+
+
+//************ Find the index of letter in a variable and display ************/
+
+// var names = "Pakistani";
+
+// document.write("String : " + names + "<br>");
+// document.write("Index of 'n' is : " + names.indexOf("n")+"<br>");
+// document.write("Index of 'a' fisrt is : " + names.indexOf("a")+"<br>");
+// document.write("Index of 'a' last is : " + names.lastIndexOf("a"));
