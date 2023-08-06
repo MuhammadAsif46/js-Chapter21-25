@@ -57,3 +57,10 @@
 // var string1 = Number("472");
 // document.write("Value : "+ string1 + "<br>" + "Type : Number"   );
 
+
+//************ Take input fron user and show string is an capital letter ************/
+
+// var user = prompt("enter a text.");
+// document.write("User input : " + user + "<br>")
+// document.write("Upper case : " + user.toUpperCase());
+
