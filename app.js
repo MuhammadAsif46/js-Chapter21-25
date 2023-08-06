@@ -40,3 +40,11 @@
 // document.write("City :" + name1 + "<br>");
 // name1 = name1.replace("Hyder","Islam");
 // document.write("After Replacement : " + name1);
+
+
+//************ Replace all the word and display result ************/
+
+// var message = "Ali and Sami are best friends. They play cricket and football together.";
+// document.write("String : " + "<br>" + message + "<br>"+ "<br>");
+// message = message.replaceAll("and","&");
+// document.write("After Replacement : "+"<br>" + message);
