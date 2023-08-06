@@ -32,3 +32,11 @@
 // document.write("String : " + names + "<br>");
 // document.write("Character at index 3 is : " + names.charAt(3)+"<br>");
 // document.write("Character at index 6 is : " + names.charAt(6));
+
+
+//************ Replace the word and display result ************/
+
+// var name1 = "Hyderabad";
+// document.write("City :" + name1 + "<br>");
+// name1 = name1.replace("Hyder","Islam");
+// document.write("After Replacement : " + name1);
