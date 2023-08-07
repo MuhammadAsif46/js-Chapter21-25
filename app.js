@@ -107,6 +107,23 @@
 
 
 
+//*************** Take input from user and show item is found or not ***************/
+
+// var arr = ["cake", "apple pie", "cookie", "chips", "patties"];
+// var userInput = prompt("Enter what do you want");
+// var userInpCase = userInput.toLowerCase();
+// var found = false;
+// for(var i = 0; i < arr.length; i++){
+//     if(userInpCase === arr[i]){
+//         found = true;
+//         alert(userInpCase + " : is available at index " + i);
+//     }
+// }
+// if(!found){
+//     alert("sorry "+ userInpCase + " : is not available");
+// }
+
+
 //*************** Converts the string to an array ***************/
 
 // var university = "University of Karachi";
