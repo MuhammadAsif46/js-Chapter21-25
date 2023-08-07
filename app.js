@@ -141,3 +141,16 @@
 
 // document.write("User Input : " + user + "<br>");
 // document.write("Last character of input is : " + lastChar);
+
+
+//********* Count the number of the same words **********/
+
+// var str = "The quick brown fox jumps over the lazy dog.";
+// var count = 0;
+// for(var i = 0; i < str.length; i++){
+//     if(str.slice(i, i+3).toLowerCase() === "the"){
+//         count++;
+//     }
+// }
+// document.write("Text : " +  str + "<br/>");
+// document.write("There are " + count + "  occurrences of word “the” ")
