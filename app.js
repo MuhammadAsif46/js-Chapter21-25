@@ -52,10 +52,10 @@
 
 //************ Converts a string to a number ************/
 
-// var string = "472";
-// document.write("Value : "+ string + "<br>" + "Type : String" + "<br>"   );
-// var string1 = Number("472");
-// document.write("Value : "+ string1 + "<br>" + "Type : Number"   );
+// var num1 = "472";
+// var num2 = 472 ;
+// document.write("Value : "+ num1 + "<br>" + "Type : "+ typeof(num1) + "<br>"   );
+// document.write("Value : "+ num2 + "<br>" + "Type : " + typeof(num2)  );
 
 
 //************ Take input fron user and show string is an capital letter ************/
