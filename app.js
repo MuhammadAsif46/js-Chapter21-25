@@ -89,6 +89,24 @@
 // document.write("Result : " + num3 );
 
 
+
+//*************** Take input from user and show special symbol not allowed ***************/
+
+// var input = prompt("Enter a user name");
+// for (var i = 0; i < input.length; i++) {
+//   if (
+//     input.charCodeAt(i) === 33 ||
+//     input.charCodeAt(i) === 64 ||
+//     input.charCodeAt(i) === 46 ||
+//     input.charCodeAt(i) === 44
+//   ) {
+//     alert("Please enter a valid user name");
+//     break;
+//   }
+// }
+
+
+
 //*************** Converts the string to an array ***************/
 
 // var university = "University of Karachi";
