@@ -97,3 +97,12 @@
 // for (var i = 0 ; i < b.length; i++){
 //     document.write(b[i] + "<br>")
 // }
+
+
+//*************** Take input from user and show last character of input ***************/
+
+// var user = prompt("enter a name.");
+// var lastChar = user.charAt(user.length - 1);
+
+// document.write("User Input : " + user + "<br>");
+// document.write("Last character of input is : " + lastChar);
