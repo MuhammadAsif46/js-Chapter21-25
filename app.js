@@ -88,3 +88,12 @@
 // document.write("Number : " + num + "<br>");
 // document.write("Result : " + num3 );
 
+
+//*************** Converts the string to an array ***************/
+
+// var university = "University of Karachi";
+
+// var b = university.split("");
+// for (var i = 0 ; i < b.length; i++){
+//     document.write(b[i] + "<br>")
+// }
