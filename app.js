@@ -124,26 +124,26 @@
 // }
 
 
-var Password = prompt("Enter your Password");
+// var Password = prompt("Enter your Password");
 
-if(Password.charCodeAt(0) > 47 && Password.charCodeAt(0) < 58 ){
-    alert("password should not start with a number");
-}
-else if(Password.length < 6){
-    alert("Password length atleast 6 character");
-}else{
-  var found = false;  
-  for(var i = 1; i < Password.length; i++){
-    if(Password.charCodeAt(i) > 47 && Password.charCodeAt(i) < 58){
-      found = true;
-    }
-  }
-  if(!found){
-    alert("password must contain numbers and alphabets");
-  }else{
-    alert("congratulation login successful");
-  }
-}
+// if(Password.charCodeAt(0) > 47 && Password.charCodeAt(0) < 58 ){
+//     alert("password should not start with a number");
+// }
+// else if(Password.length < 6){
+//     alert("Password length atleast 6 character");
+// }else{
+//   var found = false;  
+//   for(var i = 1; i < Password.length; i++){
+//     if(Password.charCodeAt(i) > 47 && Password.charCodeAt(i) < 58){
+//       found = true;
+//     }
+//   }
+//   if(!found){
+//     alert("password must contain numbers and alphabets");
+//   }else{
+//     alert("congratulation login successful");
+//   }
+// }
 
 
 //*************** Converts the string to an array ***************/
